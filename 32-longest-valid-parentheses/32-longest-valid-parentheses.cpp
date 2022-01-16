@@ -1,48 +1,24 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
+        int res=0;
+        int n=s.size();
         
-//         stack<int> st;
-//         st.push(-1);
-//         int res=0;
-//         for(int i=0;i<s.size();i++){
-//             if(s[i]=='(')
-//                 st.push(i);
-//             else{
-                
-//                 st.pop();
-                
-//                 if(st.empty()){
-//                     st.push(i);
-//                 }
-//                 else{ 
-//                     res=max(res,i-st.top());
-//                 }
-//             }
-//         }
+        vector<int> dp(n,0);
         
-//         return res;
-        int left=0,right=0,res=0;
-        for(auto i : s){
-            if(i=='(')
-                left++;
-            else
-                right++;
+        for(int i=1;i<n;i++){
+            if(s[i]==')'){
+                if(s[i-1]=='(')
+                    dp[i] = (i >= 2 ? dp[i - 2] : 0) + 2;
+                else if(i-dp[i-1]>0 &&  s[i - dp[i - 1] - 1] == '('){
+                    dp[i] = dp[i - 1] + ((i - dp[i - 1]) >= 2 ? dp[i - dp[i - 1] - 2] : 0) + 2;                    
+                }
+            }
             
-            if(left == right) res=max(res,left*2);
-            else if ( right > left) right=left=0;
-        }
-        
-        left=right=0;
-        for(int i=s.size()-1;i>=0;i--){
-             if(s[i]=='(')
-                left++;
-            else
-                right++;
-            if(left == right) res=max(res,left*2);
-            else if ( right < left) right=left=0;
+            res=max(res,dp[i]);
         }
         
         return res;
+        
     }
 };
