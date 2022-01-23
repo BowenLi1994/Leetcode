@@ -17,8 +17,8 @@ public:
         
         
         
-        for(auto v : intervals)
-            cout<<v[0]<<" "<<v[1]<<endl;
+//         for(auto v : intervals)
+//             cout<<v[0]<<" "<<v[1]<<endl;
         
         for(int i=1;i<n;i++){
             
