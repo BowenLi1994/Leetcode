@@ -13,7 +13,7 @@ public:
         
 //         return -1;
         
-        int left=0,right=nums.size();
+        int left=0,right=nums.size()-1;
         
         while(left<right){
             int mid=(right-left)/2+left;
@@ -22,7 +22,7 @@ public:
             else if(nums[mid]<target) left=mid+1;
         }
         
-        return -1;
+        return nums[left]==target?left:-1;
         
     }
 };
