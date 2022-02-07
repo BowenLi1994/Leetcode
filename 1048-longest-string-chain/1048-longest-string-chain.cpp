@@ -21,7 +21,7 @@ public:
                 if(words[j].size()+1<words[i].size()) break;
                 
                 if(pre(words[i],words[j])){
-                    dp[i]=dp[j]+1;
+                    dp[i]=max(dp[i],dp[j]+1);
                     res=max(res,dp[i]);
                 }
                 
