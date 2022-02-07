@@ -1,40 +1,28 @@
 class Solution {
 public:
     bool equationsPossible(vector<string>& equations) {
+        for(int i=0;i<26;i++)
+            root[i]=i;
         
-        for(auto eq:equations){
+        for(auto eq : equations){
             if(eq[1]=='='){
-                graph[eq[0]].insert(eq[3]);
-                graph[eq[3]].insert(eq[0]);
+                root[find(eq[0]-'a')]=find(eq[3]-'a');
             }
         }
-        
-        for(auto eq:equations){
+        for(auto eq : equations){
             if(eq[1]=='!'){
-                unordered_set<char> visited;
-                if(connect(eq[0],eq[3],visited))
-                    return false;
+               if(find(eq[0]-'a')==find(eq[3]-'a')) return false;
             }
         }
-    
-        return true;
         
+        return true;
     }
     
-    bool connect(char source,char target,unordered_set<char>& visited){
-        if(source==target) return true;
-        if(visited.count(source)) return false;
+    int find(int x){
         
-        visited.insert(source);
-        
-        for(auto child:graph[source]){
-            if(connect(child,target,visited))
-                return true;
-        }
-        
-        return false;
+        return root[x]==x?x:find(root[x]);
     }
     
 private:
-    unordered_map<char,unordered_set<char>> graph;
+    int root[26];
 };
