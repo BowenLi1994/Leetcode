@@ -12,3 +12,15 @@ Leetcode Number | Problem Name
 6 | [ZigZag Conversion](https://github.com/BowenLi1994/leetcode/tree/main/zigzag-conversion)
 7 | [Reverse Integer](https://github.com/BowenLi1994/leetcode/tree/main/reverse-integer)
 547 | [Number of Provinces](https://github.com/BowenLi1994/leetcode/tree/main/number-of-provinces)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BowenLi1994/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BowenLi1994/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
