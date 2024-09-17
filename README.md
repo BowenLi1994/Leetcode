@@ -19,6 +19,7 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BowenLi1994/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/BowenLi1994/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BowenLi1994/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/BowenLi1994/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BowenLi1994/leetcode/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ Leetcode Number | Problem Name
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/BowenLi1994/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/BowenLi1994/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -48,4 +50,8 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/BowenLi1994/leetcode/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/BowenLi1994/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
