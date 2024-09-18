@@ -1,16 +1,16 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        int gas = 0;
-        for (auto n : nums) {
-            if (gas < 0)
-                return false;
-            else if(gas<n){
-                gas=n;
+
+        int goal=nums.size()-1;
+
+        for(int i=nums.size()-2;i>=0;i--){
+            if(i+nums[i]>=goal){
+                goal=i;
             }
-            gas--;
         }
 
-        return true;
+        return !goal;
+        
     }
 };
