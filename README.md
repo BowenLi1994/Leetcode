@@ -21,6 +21,7 @@ Leetcode Number | Problem Name
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BowenLi1994/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/BowenLi1994/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BowenLi1994/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BowenLi1994/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/BowenLi1994/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BowenLi1994/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -54,4 +55,5 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BowenLi1994/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BowenLi1994/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
