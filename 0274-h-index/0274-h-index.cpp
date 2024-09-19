@@ -6,7 +6,7 @@ public:
         int h_index=1;
 
         for(auto c:citations){
-            cout<<c<<endl;
+            // cout<<c<<endl;
             if(c>=h_index){
                 h_index++;
             }
