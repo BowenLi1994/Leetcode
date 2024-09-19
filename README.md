@@ -28,6 +28,7 @@ Leetcode Number | Problem Name
 | [0169-majority-element](https://github.com/BowenLi1994/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BowenLi1994/leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/BowenLi1994/leetcode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/BowenLi1994/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BowenLi1994/leetcode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/BowenLi1994/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/BowenLi1994/leetcode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/BowenLi1994/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +77,12 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0274-h-index](https://github.com/BowenLi1994/leetcode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/BowenLi1994/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/BowenLi1994/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
