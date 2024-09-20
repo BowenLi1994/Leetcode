@@ -10,10 +10,8 @@ public:
         for(int i=nums.size()-2;i>=0;i--){
             sufPro[i]=nums[i+1]*sufPro[i+1];
             //cout<<sufPro[i]<<", ";
+            prePro[i]*=sufPro[i];
         }
-        for(int i=0;i<sufPro.size();i++){
-            sufPro[i]*=prePro[i];
-        }
-        return sufPro;
+        return prePro;
     }
 };
