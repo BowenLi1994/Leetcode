@@ -19,6 +19,7 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BowenLi1994/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/BowenLi1994/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BowenLi1994/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/BowenLi1994/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/BowenLi1994/leetcode/tree/master/0055-jump-game) |
@@ -36,6 +37,7 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BowenLi1994/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/BowenLi1994/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BowenLi1994/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/BowenLi1994/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -65,6 +67,7 @@ Leetcode Number | Problem Name
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BowenLi1994/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BowenLi1994/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/BowenLi1994/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/BowenLi1994/leetcode/tree/master/0055-jump-game) |
@@ -94,4 +97,12 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BowenLi1994/leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BowenLi1994/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BowenLi1994/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
