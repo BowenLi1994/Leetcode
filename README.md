@@ -43,6 +43,7 @@ Leetcode Number | Problem Name
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BowenLi1994/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/BowenLi1994/leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/BowenLi1994/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -62,6 +63,7 @@ Leetcode Number | Problem Name
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BowenLi1994/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/BowenLi1994/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/BowenLi1994/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -105,4 +107,8 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BowenLi1994/leetcode/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/BowenLi1994/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
