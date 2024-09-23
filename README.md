@@ -43,6 +43,7 @@ Leetcode Number | Problem Name
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/BowenLi1994/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BowenLi1994/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/BowenLi1994/leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/BowenLi1994/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -63,6 +64,7 @@ Leetcode Number | Problem Name
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/BowenLi1994/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BowenLi1994/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/BowenLi1994/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/BowenLi1994/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -110,6 +112,7 @@ Leetcode Number | Problem Name
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/BowenLi1994/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BowenLi1994/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/BowenLi1994/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
