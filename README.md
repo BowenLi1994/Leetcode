@@ -19,6 +19,7 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BowenLi1994/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/BowenLi1994/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BowenLi1994/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/BowenLi1994/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BowenLi1994/leetcode/tree/master/0045-jump-game-ii) |
@@ -40,6 +41,7 @@ Leetcode Number | Problem Name
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BowenLi1994/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/BowenLi1994/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BowenLi1994/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BowenLi1994/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/BowenLi1994/leetcode/tree/master/0042-trapping-rain-water) |
@@ -64,6 +66,7 @@ Leetcode Number | Problem Name
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BowenLi1994/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/BowenLi1994/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/BowenLi1994/leetcode/tree/master/0274-h-index) |
 ## Counting
